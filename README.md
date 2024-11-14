@@ -1,4 +1,4 @@
-# ML_Projects
+# Developers Salaries prediction
 
 # Aim of The Project
 
